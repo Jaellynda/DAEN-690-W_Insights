@@ -8,10 +8,10 @@ With the implementation of a new dispatch algorithms, the Fairfax County Fire & 
 ## Outline of our project
 |                   Sprint                   |                  Status                  |
 |:------------------------------------------:|:----------------------------------------:|
-|             Problem Definition             |                 Finished                 |
-|                  Data Sets                 |                 Ongoing                  |
-|           Analytics / Algorithms           |                                          |
-|               Visualizations               |                                          |
+|             Problem Definition             |                 Completed                |
+|                  Data Sets                 |                 Completed                |  
+|           Analytics / Algorithms           |                 Completed                |
+|               Visualizations               |                 Completed                |
 |             Final Presentations            |                                          |
 
 

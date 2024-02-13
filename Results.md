@@ -11,7 +11,7 @@ The results obtained for the response time of the current 12 BLS units are shown
 
 The results of the from the average response time for the ambulances showed that just 5 of them are currently below the department benchmark, which means that 7 are above the goal of response time. The ambulances A410, A409, A431, A427, and A408 have the lowest response time between 363.57 to 384.48 seconds. While the ambulances A412, A441, A416 were identified as the units with the highest response time between 417.45 to 486.78 seconds.
 
-## Comparing All 3 Allocation Approaches Visually 
+## Comparing All 3 Allocation Approaches Visually
 ![image](https://github.com/Xiaoqing15/DAEN-690-W_Insights/assets/137991044/8e260f06-867f-42a2-91cf-a42fd5a01ff2)
 
 ## Description of the 3 Optimal Allocation 

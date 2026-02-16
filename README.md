@@ -34,7 +34,7 @@ Coming to evaluation, our focus is on finding the optimal allocation strategy th
                       |                   Data Sets                |                 Finished                 |
                       |           Analytics / Algorithms           |                 Finished                 |        
                       |               Visualizations               |                 Finished                 |
-                      |             Final Presentations            |                 Ongoing                  |
+                      |             Final Presentations            |                 Finished                 |
 
 ## Sprint 1 Problem Definition
 * Background
